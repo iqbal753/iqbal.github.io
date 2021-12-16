@@ -1,0 +1,49 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.banner {
+    padding-top: 15%;
+    padding-bottom: 1%;
+    background-color: #406882;
+    border-radius: 1%;
+    color: #ffffff;
+}
+#staff{
+    background-color:#406882 ;
+    color: #ffffff;
+}
+.staff2 {
+    color: #000000;
+}
+.navbar {
+    background-color: #406882;
+}
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #ffffff;
+    background-color: #dc3545;
+}
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+.staff img{
+    border: 10px solid #cccccc;
+}
+
+.tim {
+    background-color: #ffffff;
+    color: black;
+    border-radius: 1%;
+}
+.kontak {
+    text-align: left;
+}
+.footer {
+    background-color: #406882;
+    color: #ffffff;
+}
